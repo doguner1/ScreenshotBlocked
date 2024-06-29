@@ -2,8 +2,8 @@
 //  ContentView.swift
 //  ScreenshotBlocked
 //
-//  Created by qwerty on 27.06.2024.
-//
+//  Created by qwerty on 27.06.2024
+//  stackoverflow : https://stackoverflow.com/questions/68421711/how-to-hide-views-from-screenshots-screen-recordings-in-swiftui
 
 
 import SwiftUI
